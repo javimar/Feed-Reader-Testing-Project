@@ -4,12 +4,12 @@ In this project there is a web-based application that reads RSS feeds. The origi
 
 Project developed as part of [Udacity](https://udacity.com/) Front-End Developer Nanodegree.
 
-# How to run the Project
+## How to run the Project
 
 - Fire up your browser to: https://javimar.github.io/Feed-Reader-Testing-Project/ and see the tests pass.
 - Or clone the repo, and play around with the tests yourself.
 
-# Code Dependencies
+## Code Dependencies
 
 * Google Feed Reader API
 * Handlebars Templating Library
